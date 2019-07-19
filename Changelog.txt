@@ -1,4 +1,10 @@
 Koolshare Asuswrt-Merlin shadowsocks_mips Changelog
+3.0.5
+   重启项目
+   fix 原项目内部分不可用地址
+      fix 规则更新地址
+      fix 插件更新地址
+      fix 更新日志地址
 ===========================================
 
 shadowsocks merlin 插件于2017年07月17日下架软件中心，就此封版，以后不再更新。

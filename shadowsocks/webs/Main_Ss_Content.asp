@@ -1732,7 +1732,7 @@ function toggle_func() {
 		});
 	$j("#update_logo").click(
 		function() {
-			window.open("https://github.com/koolshare/koolshare.github.io/blob/mips_softerware_center/shadowsocks/Changelog.txt");
+			window.open("https://raw.githubusercontent.com/Magic-Xin/ssr_mips/master/Changelog.txt");
 		});
 	$j("#log_content2").click(
 		function() {
