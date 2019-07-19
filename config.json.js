@@ -1,8 +1,8 @@
 {
-"build_date":"2019-07-20_01:11:58",
+"build_date":"2019-07-20_01:59:03",
 "description":"shadowsocks",
 "home_url":"Main_Ss_Content.asp",
-"md5":"928294866e8a7a69fbec6adcec31467e",
+"md5":"8194672a63a15f799d060207501521b7",
 "name":"shadowsocks",
 "tar_url": "https://github.com/Magic-Xin/ssr_mips/blob/master/shadowsocks.tar.gz", 
 "title":"shadowsocks",
