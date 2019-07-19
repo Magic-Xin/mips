@@ -4,8 +4,8 @@ eval `dbus export ss`
 source /koolshare/scripts/base.sh
 ss_basic_version_local=`cat /koolshare/ss/version`
 dbus set ss_basic_version_local=$ss_basic_version_local
-backup_url="http://mips.ngrok.wang:5000/shadowsocks/"
-main_url="https://raw.githubusercontent.com/koolshare/koolshare.github.io/mips_softerware_center/shadowsocks"
+backup_url=""
+main_url="https://raw.githubusercontent.com/Magic-Xin/ssr_mips/master"
 alias echo_date='echo $(date +%Y年%m月%d日\ %X):'
 # creat dnsmasq.d folder
 creat_folder(){
