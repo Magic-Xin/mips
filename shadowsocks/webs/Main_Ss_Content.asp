@@ -2975,7 +2975,7 @@ taobao.com
 													<th id="gfw_nu1" width="35%">gfwlist域名数量</th>
 													<td id="gfw_nu2">
 															<% nvram_get("ipset_numbers"); %>&nbsp;条，最后更新版本：
-															<a href="https://github.com/koolshare/koolshare.github.io/blob/acelan_softcenter_ui/maintain_files/gfwlist.conf" target="_blank">
+															<a href="https://github.com/harry3633/fancyss/tree/master/rules/gfwlist.conf" target="_blank">
 																<i><% nvram_get("update_ipset"); %></i>
 														</a>
 													</td>
@@ -2985,7 +2985,7 @@ taobao.com
 												<td id="chn_nu2">
 													<p>
 														<% nvram_get("chnroute_numbers"); %>&nbsp;行，最后更新版本：
-														<a href="https://github.com/koolshare/koolshare.github.io/blob/acelan_softcenter_ui/maintain_files/chnroute.txt" target="_blank">
+														<a href="https://github.com/harry3633/fancyss/tree/master/rules/chnroute.txt" target="_blank">
 															<i><% nvram_get("update_chnroute"); %></i>
 														</a>
 													</p>
@@ -2996,7 +2996,7 @@ taobao.com
 													<td id="cdn_nu2">		
 														<p>		
 														<% nvram_get("cdn_numbers"); %>&nbsp;条，最后更新版本：		
-															<a href="https://github.com/koolshare/koolshare.github.io/blob/acelan_softcenter_ui/maintain_files/cdn.txt" target="_blank">		
+															<a href="https://github.com/harry3633/fancyss/tree/master/rules/cdn.txt" target="_blank">		
 																<i><% nvram_get("update_cdn"); %></i>		
 															</a>		
 														</p>		
