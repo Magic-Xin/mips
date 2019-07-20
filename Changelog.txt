@@ -1,10 +1,15 @@
 Koolshare Asuswrt-Merlin shadowsocks_mips Changelog
+
+3.0.6
+   - fix 修复 负载均衡不可用
+   - update 更新 build.sh脚本，加入历史版本备份
+
 3.0.5
    重启项目
-   fix 原项目内部分不可用地址
-      fix 规则更新地址
-      fix 插件更新地址
-      fix 更新日志地址
+   - fix 修复原项目内部分不可用地址
+      - fix 修复 规则更新地址
+      - fix 修复 插件更新地址
+      - fix 修复 更新日志地址
 ===========================================
 
 shadowsocks merlin 插件于2017年07月17日下架软件中心，就此封版，以后不再更新。

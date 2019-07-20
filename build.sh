@@ -38,4 +38,16 @@ do_build() {
 	EOF
 }
 
+do_backup(){
+	HISTORY_DIR="../history"
+	# backup latested package after pack
+	backup_version=`cat version | sed -n 1p`
+	backup_tar_md5=`cat version | sed -n 2p`
+	echo backup VERSION $backup_version
+	cp ${MODULE}.tar.gz $HISTORY_DIR/${MODULE}_$backup_version.tar.gz
+	sed -i "/$backup_version/d" "$HISTORY_DIR"/md5sum.txt
+	echo $backup_tar_md5 ${MODULE}_$backup_version.tar.gz >> "$HISTORY_DIR"/md5sum.txt
+}
+
 do_build
+do_backup
