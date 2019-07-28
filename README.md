@@ -8,6 +8,10 @@
 
 如果各位发现任何Bug/问题，或是有大佬愿意指点，欢迎提交Issues反馈！
 
+Sock5的GFWlist.acl源自ACL4SSR
+
+项目地址：https://github.com/FelisCatus/SwitchyOmega/releases
+
 初次安装/无法在线更新时请使用如下方式手动更新：
 <pre>
 wget --no-check-certificate --timeout=15 -P /tmp https://github.com/Magic-Xin/ssr_mips/blob/master/shadowsocks.tar.gz
