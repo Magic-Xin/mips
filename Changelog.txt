@@ -1,5 +1,8 @@
 Koolshare Asuswrt-Merlin shadowsocks_mips Changelog
 
+3.0.7
+   - update 更新 Socks5下的gfwlist.acl，同步至ACL4SSR
+
 3.0.6
    - fix 修复 负载均衡不可用
    - update 更新 build.sh脚本，加入历史版本备份
