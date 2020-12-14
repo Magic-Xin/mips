@@ -22,9 +22,9 @@
 
     3. SSH连接路由器，逐行执行以下命令
 
-    <pre>
+    ···shell
     tar -zxvf /tmp/shadowsocks.tar.gz
     chmod +x /tmp/shadowsocks/install.sh
     sh /tmp/shadowsocks/install.sh
     reboot
-    </pre>
+    ```
