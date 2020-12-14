@@ -1,4 +1,7 @@
 # SSR for mips router with merlin koolshare firmware
+
+<b>由于我个人已经更换路由器，已无力维护该项目，欢迎各位 fork 仓库修改
+
 * <b>原项目：https://github.com/harry3633/fancyss/tree/master/fancyss_mipsel</b>
 * <b>此项目仅用于merlin koolshare mipsel架构改版固件</b>
 * <b>Sock5的GFWlist.acl源自ACL4SSR：https://github.com/ACL4SSR/ACL4SSR</b>
