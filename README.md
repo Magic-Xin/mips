@@ -1,5 +1,5 @@
 # SSR for mips router with merlin koolshare firmware
-
+## 已弃坑
 <b>由于我个人已经更换路由器，已无力维护该项目，欢迎各位 fork 仓库修改
 
 * <b>原项目：https://github.com/harry3633/fancyss/tree/master/fancyss_mipsel</b>
